@@ -1,7 +1,7 @@
 {
   "name": "omniduck",
-  "version": "0.1.2",
-  "bin": "bin/index.js",
+  "version": "0.1.3",
+  "bin": "bin/omniduck.js",
   "description": "Separately run many DuckDuckGo bangs on many inputs",
   "keywords": ["duckduckgo", "ddg", "bangs", "search"],
   "homepage": "https://github.com/kroogs/omniduck",
