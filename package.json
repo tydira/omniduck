@@ -1,0 +1,17 @@
+{
+  "name": "omniduck",
+  "version": "0.1.0",
+  "bin": "bin/index.js",
+  "description": "Separately run many DuckDuckGo bangs on many inputs",
+  "keywords": ["duckduckgo", "ddg", "bangs", "search"],
+  "homepage": "https://github.com/kroogs/omniduck",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kroogs/omniduck.git"
+  },
+  "author": "Justin Krueger <justin@kroo.gs",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^6.2.0"
+  }
+}
